@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WIFIDemo</string>
+    <string name="btnConn">WIFI طابعة اتصال</string>
+    <string name="btnPrint">طباعة</string>
+    <string name="btn_test">طباعة صفحة اختبار</string>
+    <string name="btnClose">قريب</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="strLang">ar</string>
+    <string name="lblAddressIp">عنوان IP:</string>
+    <string name="btn_opencasher">فتح مربع النقدية</string>
+    <string name="ip">192.168.1.100</string>
+    <string name="btn_prtar">طباعة العربية</string>
+    <string name="contentdescription"></string>
+   <string name="empty">إدخال فارغ</string>
+    <string name="empty1">إدخال فارغ، في مربع النص لإدخال المحتوى المراد تحويله ..</string>
+     <string name="choose_paper_width">عرض ورقة:</string>
+    <string name="width1">58mm</string>
+    <string name="width2">80mm</string>
+    <string name="printhex">HEX</string>
+    <string name="msg_state">خطأ في إدخال البيانات!</string>
+    
+</resources>

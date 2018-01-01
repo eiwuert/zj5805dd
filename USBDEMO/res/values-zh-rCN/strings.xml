@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">POSPrinter-USB</string>
+    <string name="btn_conn">连接USB打印机</string>
+    <string name="btnSend">发送数据</string>
+    <string name="btn_test">打印测试页</string>
+    <string name="btnClose">关闭</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="menu_settings">设置</string>
+    <string name="strLang">ch</string>
+    <string name="msg_getpermission">已获取USB设备访问权限</string>
+    <string name="msg_conn_state">无USB设备访问权限,请重新连接USB设备</string>
+    <string name="btn_bmp">图形方式打印</string>
+    <string name="contentdescription"></string>
+    <string name="empty">输入为空</string>
+    <string name="empty1">输入为空，请在文本框输入需转换的内容..</string>
+     <string name="choose_paper_width">纸张宽度:</string>
+    <string name="width1">58mm</string>
+    <string name="width2">80mm</string>
+    <string name="printhex">HEX</string>
+    <string name="msg_state">输入错误!</string>
+    
+    <string name="printpicture">打印图片</string>
+    <string name="chosecommand">指令测试</string>
+    <string name="btn_prttable">打印自定义表格</string>
+    <string name="Smallticketprinting">打印自定义小票</string>
+    <string name="btn_prtcode">打印一二维条码</string>
+    <string name="msg_error">输入错误，请检查输入</string>
+    <string name="choose_printcoding"></string>
+    <string name="big5">BIG5</string>
+    <string name="thai">泰语</string>
+    <string name="kor">韩语</string>
+    <string name="gbk12">简体</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USBDemo</string>
+    <string name="btn_conn">توصيل طابعة USB</string>
+    <string name="btnSend">طباعة</string>
+    <string name="btn_test">طباعة صفحة اختبار</string>
+    <string name="btnClose">قريب</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="menu_settings">نصب</string>
+    <string name="strLang">ar</string>
+    <string name="msg_getpermission">الحصول على جهاز USB لديه حق الوصول</string>
+    <string name="msg_conn_state">لا توجد شبكة جهاز USB، يرجى إعادة توصيل جهاز USB</string>
+    <string name="btn_bmp">طباعة العربية</string>
+    <string name="contentdescription"></string>
+    <string name="empty">إدخال فارغ</string>
+    <string name="empty1">إدخال فارغ، في مربع النص لإدخال المحتوى المراد تحويله ..</string>
+     <string name="choose_paper_width">عرض ورقة:</string>
+    <string name="width1">58mm</string>
+    <string name="width2">80mm</string>
+    <string name="printhex">HEX</string>
+    <string name="msg_state">خطأ في إدخال البيانات!</string>
+    
+</resources>
